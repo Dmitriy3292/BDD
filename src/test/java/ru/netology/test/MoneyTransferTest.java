@@ -11,8 +11,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class MoneyTransferTest {
 
     public int sum = 500;
-    public String getFirstCard = "5559000000000001";
-    public String getSecondCard = "5559000000000002";
+    private String getSecondCard;
+
 
     @Test
     void shouldTransferMoneyBetweenOwnCards() {
@@ -22,6 +22,8 @@ class MoneyTransferTest {
         var verificationPage = loginPage.validLogin(authInfo);
         var verificationCode = DataHelper.getVerificationCodeFor(authInfo);
         var dashboardPage = verificationPage.validVerify(verificationCode);
+        var firstNumber = DataHelper.getFirstCard();
+        var secondNumber = DataHelper.getSecondCard();
         int startBalance1 = dashboardPage.getFirstCardBalance();
         int startBalance2 = dashboardPage.getSecondCardBalance();
         var transferPage = dashboardPage.chooseCard();
