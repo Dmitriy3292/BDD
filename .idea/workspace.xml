@@ -5,10 +5,109 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31453dd0-671c-402b-a835-914733aa5012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignor.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/test/MoneyTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/test/MoneyTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/modules/Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/modules/Selenium.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/modules/Selenium.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/artifacts/app-order.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apici3/src/test/java/postmanEcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cardorder2/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cardorder2/artifacts/app-card-delivery.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cardorder2/src/test/java/ru/netology/cardTest/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cardorder2/src/test/java/ru/netology/cardTest/test/cardOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java для тестировщиков/idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java для тестировщиков/prosto/prosto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenide/.appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenide/artifacts/app-card-delivery.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit/src/test/java/ru/netology/unit/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BonusService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BonusService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BonusService/src/main/java/BonusService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BonusService/src/test/java/BonusServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotFoundException/src/main/java/ru/netology/domain/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotFoundException/src/main/java/ru/netology/domain/NotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotFoundException/src/main/java/ru/netology/domain/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotFoundException/src/main/java/ru/netology/domain/TShirt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotFoundException/src/main/java/ru/netology/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotFoundException/src/test/java/ru/netology/repository/ProductRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PosterManager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PosterManager/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PosterManager/src/main/java/ru/netology/domain/Film.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PosterManager/src/main/java/ru/netology/manager/AfishaManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PosterManager/src/test/java/ru/netology/manager/AfishaManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PosterManagerV2/src/main/java/re/netology/domain/Films.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PostermanagerV/src/main/java/ru/netology/domain/Film.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/src/main/java/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/src/main/java/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/src/main/java/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/src/main/java/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManager/src/main/java/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SquareCounter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SquareCounter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SquareCounter/src/main/java/ru/netology/sqr/SQRService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SquareCounter/src/test/java/ru/netology/sqr/SQRServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatsticsV2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatsticsV2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatsticsV2/src/main/java/ru/netology/StatService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatsticsV2/src/test/java/ru/netology/StatServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bonusMiles/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bonusMiles/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunusMilesMod/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunusMilesMod/src/BonusMilesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunusMilesMod/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/src/CreditService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index/src/BmiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../json/src/main/java/FormDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../json/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../json/src/main/java/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/ActionInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/CommentsInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/CopyrightInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/CountVievs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/DonatInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/GeoInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/LikesInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/PostSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/PostVk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post/src/main/java/ru/netology/domain/RepostsInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/out/production/prosto/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/prosto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prosto/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radio/.github/workflows/maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radio/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radio/src/main/java/ru/netology/domane/Radio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radio/src/test/java/ru/netology/domane/RadioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../radioV1/src/main/java/ru/netology/domaine/Radio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../square" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +139,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="29WW1Mq2hh4HsBJEzzXpJE43sr0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +156,7 @@
       <recent name="C:\idea\BDD1\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.app-ibank-build-for-testers.jar">
+  <component name="RunManager" selected="Gradle.MoneyTransferTest">
     <configuration name="MoneyTransferTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -84,8 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.app-ibank-build-for-testers.jar" />
         <item itemvalue="Gradle.MoneyTransferTest" />
+        <item itemvalue="JAR Application.app-ibank-build-for-testers.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +210,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
