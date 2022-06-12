@@ -1,5 +1,6 @@
 package ru.netology.test;
 
+
 import org.junit.jupiter.api.Test;
 import ru.netology.data.DataHelper;
 import ru.netology.page.DashboardPage;
@@ -11,7 +12,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class MoneyTransferTest {
 
     public int sum = 500;
-    private String getSecondCard;
+    public DataHelper.CardInfo getFirstCard = DataHelper.getFirstCard();
+    public DataHelper.CardInfo getSecondCard = DataHelper.getSecondCard();
 
 
     @Test
@@ -36,4 +38,8 @@ class MoneyTransferTest {
         assertEquals(startBalance2 - sum, finishBalance2);
         assertEquals(startBalance1 + sum, finishBalance1);
     }
+
+
+
+
 }

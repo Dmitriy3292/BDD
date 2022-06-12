@@ -14,10 +14,10 @@ public class TransferPage {
         amount.shouldBe(visible);
     }
 
-    public DashboardPage transferMoneyFromCard2ToCard1(int sum, String numberCard2) {
+    public DashboardPage transferMoneyFromCard2ToCard1(int sum, DataHelper.CardInfo numberCard2) {
         $("[data-test-id='amount'] input").setValue(String.valueOf(sum));
         var dataHelper = new DataHelper();
-        $("[data-test-id='from'] input").setValue(numberCard2);
+        $("[data-test-id='from'] input").setValue(String.valueOf(numberCard2));
         $("[class='button__text']").click();
 
         return new DashboardPage();
